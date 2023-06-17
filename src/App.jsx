@@ -10,7 +10,7 @@ function App() {
       <Header>
         <img
           src="/headerBackgroundImg.jpg" 
-          alt="headerbackgroundImg" 
+          alt="headerbackgroundImg"
           className='headerbackgroundImg'
         />
         <div className="wrapper">
