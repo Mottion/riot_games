@@ -37,7 +37,7 @@ function App() {
           <div className="headerContent">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/99NiAOtOIgI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <h2>Somos Rioters</h2>
-            <p>Fundada em 2006, a Riot games é uma empresa que atual na area de jogos, musicas, E-Sports e muito mais! Mantendo como base a mesma visão que a vez ser tão grande quanto é hoje: ser a empresa que mais escuta e trabalha pelos seus jogadores.</p>
+            <p>Fundada em 2006, a Riot games é uma empresa que atua na area de jogos, musicas, E-Sports e muito mais! Mantendo como base a mesma visão que a fez ser tão grande quanto é hoje: ser a empresa que mais escuta e trabalha pelos seus jogadores.</p>
           </div>
         </div>
       </Header>
