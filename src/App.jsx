@@ -9,7 +9,7 @@ function App() {
     <>
       <Header>
         <img
-          src="/headerBackgroundImg.jpg" 
+          src="/headerBackgroundImg.png" 
           alt="headerbackgroundImg" 
           className='headerbackgroundImg'
         />
